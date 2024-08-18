@@ -1,4 +1,4 @@
-name: CICD By DevOps
+name: CICD Pipline
 
 on:
   push:
